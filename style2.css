@@ -1,0 +1,23 @@
+.asteroid {
+    width: 200px;
+}
+
+.asteroid:hover{
+    background-color: tomato;
+}
+
+div {
+    font-weight: 600;
+}
+
+#b325, .b326 {
+    border: 1px solid green; 
+}
+
+p {
+    background-color: yellow;
+}
+
+.big {
+    color: blue;
+}
